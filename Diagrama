@@ -1,0 +1,33 @@
+Modulos
+
+
+Auth
+    -Usuarios
+    -Roles(Notificadores, Jefes, Representantes, Secretaria)
+    -Permisos
+
+
+Personas
+    - Persona
+        - identificacion
+        - tipoIdentificacion
+        - primerNombre
+        - segundoNombre
+
+
+    - Contactos
+        - contacto
+        - tipo
+        - persona(Persona)
+
+
+    - Cliente
+
+    - Personal(Opcional)
+
+Notificadores
+    Equipos
+        (Supervisor)
+        notificadores(x5)
+
+Ubicaciones
